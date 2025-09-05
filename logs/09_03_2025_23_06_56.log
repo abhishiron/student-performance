@@ -1,0 +1,11 @@
+2025-09-03 23:06:57,591 - INFO - Entered the data ingestion method or component
+2025-09-03 23:06:57,595 - INFO - Read the dataset as dataframe
+2025-09-03 23:06:57,600 - INFO - Train test split initiated
+2025-09-03 23:06:57,605 - INFO - Ingestion of the data is completed
+2025-09-03 23:06:57,605 - INFO - Initiating data transformation...
+2025-09-03 23:06:57,624 - INFO - Read train and test data successfully.
+2025-09-03 23:06:57,624 - INFO - Numerical transformers created successfully.
+2025-09-03 23:06:57,624 - INFO - Categorical transformers created successfully.
+2025-09-03 23:06:57,637 - INFO - Applying preprocessing object on training and testing datasets.
+2025-09-03 23:06:57,676 - INFO - Saving the preprocessor object.
+2025-09-03 23:06:57,678 - INFO - Data transformation completed successfully.

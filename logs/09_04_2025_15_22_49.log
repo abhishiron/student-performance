@@ -1,0 +1,16 @@
+2025-09-04 15:22:50,984 - INFO - Entered the data ingestion method or component
+2025-09-04 15:22:50,985 - INFO - Read the dataset as dataframe
+2025-09-04 15:22:50,991 - INFO - Train test split initiated
+2025-09-04 15:22:50,997 - INFO - Ingestion of the data is completed
+2025-09-04 15:22:50,997 - INFO - Initiating data transformation...
+2025-09-04 15:22:51,017 - INFO - Read train and test data successfully.
+2025-09-04 15:22:51,017 - INFO - Numerical transformers created successfully.
+2025-09-04 15:22:51,017 - INFO - Categorical transformers created successfully.
+2025-09-04 15:22:51,018 - INFO - Applying preprocessing object on training and testing datasets.
+2025-09-04 15:22:51,018 - INFO - Saving the preprocessor object.
+2025-09-04 15:22:51,018 - INFO - Data transformation completed successfully.
+2025-09-04 15:22:51,018 - INFO - Splitting training and test input data
+2025-09-04 15:22:51,018 - INFO - Starting model evaluation with hyperparameter tuning...
+2025-09-04 15:24:47,455 - INFO - Best model found: Linear Regression with R2 score: 0.8804
+2025-09-04 15:24:47,455 - INFO - Saving the best trained model...
+2025-09-04 15:24:47,464 - INFO - Final R2 score verification: 0.8804
